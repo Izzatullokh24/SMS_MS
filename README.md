@@ -1,5 +1,6 @@
 # SMS_MS
 
+''
 ubuntu2005@ubuntu:~$ mkdir projectw3_ws
 ubuntu2005@ubuntu:~$ cd projectw3_ws/
 ubuntu2005@ubuntu:~/projectw3_ws$ mkdir src
@@ -16,3 +17,5 @@ usage: catkin_create_pkg [-h] [--meta] [-s [SYS_DEPS [SYS_DEPS ...]]]
                          name [dependencies [dependencies ...]]
 catkin_create_pkg: error: File exists: /home/ubuntu2005/projectw3_ws/src/projectw3/package.xml
 ubuntu2005@ubuntu:~/projectw3_ws/srcuuubuntu2ubuubuuubuubunubuubuuubuntubuububuububuntubuubuntuubuntu2005@ubuntu:~/projectw3_ws/src$
+
+''
