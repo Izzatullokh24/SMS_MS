@@ -1,0 +1,2 @@
+assignment3
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu2005/assignment3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu2005/assignment3_ws/install -G Unix Makefiles
