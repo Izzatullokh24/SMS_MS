@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ubuntu2005/catkin_ws/assignment_1/src
+CMAKE_SOURCE_DIR = /home/ubuntu2005/assignment3_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ubuntu2005/catkin_ws/assignment_1/build
+CMAKE_BINARY_DIR = /home/ubuntu2005/assignment3_ws/build
 
 # Utility rule file for tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/ubuntu2005/catkin_ws/assignment_1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ubuntu2005/catkin_ws/assignment_1/src /home/ubuntu2005/catkin_ws/assignment_1/src /home/ubuntu2005/catkin_ws/assignment_1/build /home/ubuntu2005/catkin_ws/assignment_1/build /home/ubuntu2005/catkin_ws/assignment_1/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ubuntu2005/assignment3_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ubuntu2005/assignment3_ws/src /home/ubuntu2005/assignment3_ws/src /home/ubuntu2005/assignment3_ws/build /home/ubuntu2005/assignment3_ws/build /home/ubuntu2005/assignment3_ws/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

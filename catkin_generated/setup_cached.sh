@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/ubuntu2005/catkin_ws/assignment_1/devel:$CMAKE_PREFIX_PATH"
-export PWD='/home/ubuntu2005/catkin_ws/assignment_1/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/ubuntu2005/catkin_ws/assignment_1/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/ubuntu2005/catkin_ws/assignment_1/src:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/ubuntu2005/assignment3_ws/devel:$CMAKE_PREFIX_PATH"
+export PWD='/home/ubuntu2005/assignment3_ws/build'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/ubuntu2005/assignment3_ws/devel/share/common-lisp'
+export ROS_PACKAGE_PATH="/home/ubuntu2005/assignment3_ws/src:$ROS_PACKAGE_PATH"
