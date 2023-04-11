@@ -1,2 +1,0 @@
-project4
--DCATKIN_DEVEL_PREFIX=/home/ubuntu2005/project4_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu2005/project4_ws/install -G Unix Makefiles
