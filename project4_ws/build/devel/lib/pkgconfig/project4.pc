@@ -1,0 +1,8 @@
+prefix=/home/ubuntu2005/project4_ws/devel
+
+Name: project4
+Description: Description of project4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
